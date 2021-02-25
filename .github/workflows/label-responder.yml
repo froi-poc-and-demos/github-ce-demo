@@ -20,4 +20,4 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: Add response comment
-        use: froi-poc-and-demos/github-ce-action@main
+        uses: froi-poc-and-demos/github-ce-action@main
